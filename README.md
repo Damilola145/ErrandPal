@@ -1,6 +1,6 @@
 # Welcome to ErrandPal
 
-A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. This template provides a solid foundation for building web applications with best practices in mind.
+ErrandPal is a  SaaS platform to aid connect individuals to help run errands. It uses a clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. 
 
 ## Tech Features
 
@@ -47,43 +47,4 @@ yarn dev
 pnpm dev
 ```
 
-4. Open your browser and visit `http://localhost:5173`
 
-## Project Structure
-
-```
-react-template-project/
-├── public/              # Static assets
-│   ├── components/      # Reusable components
-│   │   └── ui/          # UI components from ShadCN
-│   ├── hooks/           # Custom React hooks
-│   ├── lib/             # Utility functions and libraries
-│   ├── pages/           # Page components
-│   ├── App.tsx          # Main application component
-│   ├── index.css        # Global styles
-│   └── main.tsx         # Application entry point
-├── .gitignore
-├── package.json         # Project dependencies and scripts
-├── tailwind.config.ts   # TailwindCSS configuration
-├── tsconfig.json        # TypeScript configuration
-└── vite.config.ts       # Vite configuration
-```
-
-## Customization
-
-- **Styling**: Modify `tailwind.config.ts` to customize your design tokens
-- **Components**: Add or modify components in the `src/components` directory
-- **Pages**: Create new pages in the `src/pages` directory
-- **Routing**: Update routes in `src/App.tsx`
-
-## Building for Production
-
-```bash
-npm run build
-# or
-yarn build
-# or
-pnpm build
-```
-
-The built files will be in the `dist` directory, ready to be deployed.
