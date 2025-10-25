@@ -27,7 +27,7 @@ export function Header() {
           onClick={() => navigate("/")}
         >
           <img
-            src="LOGO2.jpg"
+            src="LOGO2.png"
             alt="Logo"
             className="h-10 w-auto rounded-full"
           />

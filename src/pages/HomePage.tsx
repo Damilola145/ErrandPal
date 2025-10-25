@@ -55,7 +55,7 @@ const HomePage = () => {
             <div className="relative" data-id="plmjrlm6f" data-path="src/pages/HomePage.tsx">
               <div className="bg-white p-4 rounded-lg shadow-xl rotate-3 transition-all hover:rotate-0 duration-300" data-id="ptnc4jmsx" data-path="src/pages/HomePage.tsx">
                 <img
-                  src="/hero.png"
+                  src="/hero.avif"
                   alt="People collaborating on tasks"
                   className="rounded w-full h-auto" data-id="5yeh15blq" data-path="src/pages/HomePage.tsx" />
               </div>
